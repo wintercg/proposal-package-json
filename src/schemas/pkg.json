@@ -6,7 +6,7 @@
       "type": "object",
       "properties": {
         "name": {
-          "description": "The name is what your thing is called",
+          "description": "The name of your package",
           "type": "string",
           "minLength": 0,
           "maxLength": 214
