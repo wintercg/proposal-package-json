@@ -1,0 +1,21 @@
+<pre class='metadata'>
+Title: package.json Specification
+Shortname: package-json
+Level: 1
+Status: w3c/CG-DRAFT
+Group: wintercg
+URL: http://package-json.proposal.wintercg.org
+Editor: Ethan Arrowood, Vercel http://vercel.com, ethan-arrowood@vercel.com
+Abstract: A proposal defining a specification for package.json
+Markup Shorthands: markdown yes
+</pre>
+<pre class=link-defaults>
+spec:url; type:interface; text:URL
+spec:html; type:attribute; for:Window; text:navigator
+spec:html; type:attribute; for:Window; text:self
+</pre>
+
+Introduction {#intro}
+=====================
+
+> TODO
