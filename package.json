@@ -1,0 +1,20 @@
+{
+  "name": "proposal-package-json",
+  "version": "0.0.0",
+  "description": "A proposal specifying package.json",
+  "main": "src/index.js",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wintercg/proposal-package-json.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wintercg/proposal-package-json/issues"
+  },
+  "homepage": "https://github.com/wintercg/proposal-package-json#readme"
+}
