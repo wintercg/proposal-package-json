@@ -1,3 +1,9 @@
+This repository is currently archived. See this [message](https://github.com/wintercg/proposal-package-json/issues/1#issuecomment-1599195187) for more details.
+
+Join us for the continuation of this work over in the [OpenJS Foundation's Standards Working Group](https://github.com/openjs-foundation/standards).
+
+---
+
 # proposal-package-json
 
 A proposal specifying package.json
